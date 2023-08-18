@@ -1,0 +1,42 @@
+SELECAO POR SUBSTITUICAO
+Tempo de execucao do metodo de selecao: 0.48 segundos
+Numero de comparacoes: 1091
+INTERCALACAO OTIMA
+Tempo de execucao do metodo de selecao: 0.16 segundos
+Numero de comparacoes: 3774
+SELECAO POR SUBSTITUICAO
+Tempo de execucao do metodo de selecao: 0.42 segundos
+Numero de comparacoes: 1070
+INTERCALACAO OTIMA
+Tempo de execucao do metodo de selecao: 0.18 segundos
+Numero de comparacoes: 3883
+SELECAO POR SUBSTITUICAO
+Tempo de execucao do metodo de selecao: 0.52 segundos
+Numero de comparacoes: 1053
+INTERCALACAO OTIMA
+Tempo de execucao do metodo de selecao: 0.17 segundos
+Numero de comparacoes: 3805
+SELECAO POR SUBSTITUICAO
+Tempo de execucao do metodo de selecao: 0.62 segundos
+Numero de comparacoes: 1263
+INTERCALACAO OTIMA
+Tempo de execucao do metodo de selecao: 0.20 segundos
+Numero de comparacoes: 4737
+SELECAO POR SUBSTITUICAO
+Tempo de execucao do metodo de selecao: 0.47 segundos
+Numero de comparacoes: 1022
+INTERCALACAO OTIMA
+Tempo de execucao do metodo de selecao: 0.16 segundos
+Numero de comparacoes: 3637
+SELECAO POR SUBSTITUICAO
+Tempo de execucao do metodo de selecao: 0.48 segundos
+Numero de comparacoes: 1069
+INTERCALACAO OTIMA
+Tempo de execucao do metodo de selecao: 0.18 segundos
+Numero de comparacoes: 3655
+SELECAO POR SUBSTITUICAO
+Tempo de execucao do metodo de selecao: 0.48 segundos
+Numero de comparacoes: 1021
+INTERCALACAO OTIMA
+Tempo de execucao do metodo de selecao: 0.19 segundos
+Numero de comparacoes: 3875
